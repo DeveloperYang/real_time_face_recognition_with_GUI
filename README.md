@@ -1,1 +1,21 @@
 # real_time_face_recognition_with_GUI
+
+Except all files in this directory, please download additional files needed for the project before running. 
+
+> File address: http://https://pan.baidu.com/s/1JlsiMbZdg6uRY9Q2qRzsAw 
+
+> Extraction code: qdvr
+
+Then unzip the downloaded "models.zip" and replace it with the "models" folder in the project (the "models" folder in the project was originally an empty folder).
+
+Run "FaceCompleteUI.py".
+
+#### Example:
+
+Main GUI:
+
+<img src="./UI_images/FaceUI.jpg" alt="FaceUI" style="zoom:67%;" />
+
+Real-time face detection and recognition :
+
+<img src="./UI_images/faceRecog.jpg" alt="faceRecog" style="zoom:67%;" />
