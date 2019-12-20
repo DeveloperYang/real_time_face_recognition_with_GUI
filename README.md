@@ -23,4 +23,5 @@ Real-time face detection and recognition :
 Some pictures and files are referenced on the Internet.
 
 > [1] https://github.com/davidsandberg/facenet
+
 > [2] https://github.com/shanren7/real_time_face_recognition
