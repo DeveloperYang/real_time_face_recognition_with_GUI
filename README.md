@@ -14,8 +14,8 @@ Run "FaceCompleteUI.py".
 
 Main GUI:
 
-<img src="./UI_images/FaceUI.jpg" alt="FaceUI" style="zoom:30%;" />
+<img src="./UI_images/FaceUI.jpg" alt="FaceUI" style="zoom:67%;" />
 
 Real-time face detection and recognition :
 
-<img src="./UI_images/faceRecog.jpg" alt="faceRecog" style="zoom:30%;" />
+<img src="./UI_images/faceRecog.jpg" alt="faceRecog" style="zoom:67%;" />
