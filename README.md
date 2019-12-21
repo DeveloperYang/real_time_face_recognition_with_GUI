@@ -2,9 +2,9 @@
 
 Except all files in this directory, please download additional files needed for the project before running. 
 
-> File address: http://https://pan.baidu.com/s/1JlsiMbZdg6uRY9Q2qRzsAw 
+> File address: http://https://pan.baidu.com/s/1JlsiMbZdg6uRY9Q2qRzsAw     Extraction code: *qdvr*
 
-> Extraction code: qdvr
+> Or you can download from https://download.csdn.net/download/Breathing_yang/12043726
 
 Then unzip the downloaded "models.zip" and replace it with the "models" folder in the project (the "models" folder in the project was originally an empty folder).
 
