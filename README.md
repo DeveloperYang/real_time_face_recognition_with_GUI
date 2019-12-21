@@ -2,7 +2,7 @@
 
 Except all files in this directory, please download additional files needed for the project before running. 
 
-> File address: http://https://pan.baidu.com/s/1JlsiMbZdg6uRY9Q2qRzsAw     Extraction code: *qdvr*
+> File address: http://pan.baidu.com/s/1JlsiMbZdg6uRY9Q2qRzsAw         Extraction code:  **qdvr**
 
 > Or you can download from https://download.csdn.net/download/Breathing_yang/12043726
 
